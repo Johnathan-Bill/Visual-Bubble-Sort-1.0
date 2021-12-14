@@ -24,7 +24,7 @@ namespace Visual_Bubble_Sort
 			InitializeComponent();
 		}
 		// method to generate the rectangles and space them properly throghtout the form
-		public void generateRectangle()
+		public void GenerateRectangle()
 		{
 			//clears all current rectangles from the canvas
 			for(int x = 0; x< rectList.Count;x++)
@@ -56,7 +56,7 @@ namespace Visual_Bubble_Sort
 		// method that calls generateRectangle. could make take out the middle man but oh well
 		private void Button_Click(object sender, RoutedEventArgs e)
 		{
-			generateRectangle();
+			GenerateRectangle();
 		}
 		// calls the bubble sort method could take out the middle man but oh well
 		private void Sort(object sender, RoutedEventArgs e)
