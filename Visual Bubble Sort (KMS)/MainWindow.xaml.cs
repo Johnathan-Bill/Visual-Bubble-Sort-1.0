@@ -105,10 +105,10 @@ namespace Visual_Bubble_Sort
 				}
 			}
 			// does a cool highlight after completely sorted like the fancy sorting algorithm videos
-			finished();
+			await Finished();
 		}
 		// method that does the color chang thought the whole sorted loop looks cool
-		private async void finished()
+		private async Task Finished()
 		{
 			for(int i = 0; i < rectList.Count; i++)
 			{
@@ -119,6 +119,39 @@ namespace Visual_Bubble_Sort
 		}
 		private void Window_Loaded(object sender, RoutedEventArgs e)
 		{
+		}
+		private async void Selection_Sort()
+		{
+			int min_ind;
+			Rectangle temp;
+			for (int i = 0; i < rectList.Count; i++)
+			{
+				min_ind = i;
+				for (int k = i; k < rectList.Count; k++)
+				{
+					rectList[i].Fill = Brushes.White;
+					await Task.Delay(1);
+					if (rectList[k].Height < rectList[min_ind].Height)
+					{
+						rectList[min_ind].Fill = Brushes.Black;
+						min_ind = k;
+						rectList[k].Fill = Brushes.Red;
+					}
+					refresh();
+				}
+				temp = rectList[min_ind];
+				rectList[min_ind] = rectList[i];
+				rectList[i] = temp;
+				rectList[min_ind].Fill = Brushes.Black;
+				rectList[i].Fill = Brushes.Black;
+
+			}
+			await Finished();
+
+		}
+		private void Selection_Click(object sender, RoutedEventArgs e)
+		{
+			Selection_Sort();
 		}
 	}
 }

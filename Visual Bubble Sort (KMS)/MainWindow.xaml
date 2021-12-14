@@ -6,9 +6,10 @@
         xmlns:local="clr-namespace:Visual_Bubble_Sort"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
-	<Canvas Name="grid">
-		<Button Click="Button_Click" Content="Load Rectangles" HorizontalAlignment="Left" Margin="684,150,0,0" VerticalAlignment="Top"/>
-		<Button Click="Sort" Content="Start Sort" Canvas.Left="682" Canvas.Top="189"/>
+    <Canvas Name="grid">
+        <Button Click="Button_Click" Content="Load Rectangles" HorizontalAlignment="Left" Margin="684,150,0,0" VerticalAlignment="Top"/>
+        <Button Click="Sort" Content="Bubble Sort" Canvas.Left="684" Canvas.Top="175"/>
+        <Button Click="Selection_Click" Content="Selection Sort" Canvas.Left="684" Canvas.Top="200"/>
 
-	</Canvas>
+    </Canvas>
 </Window>

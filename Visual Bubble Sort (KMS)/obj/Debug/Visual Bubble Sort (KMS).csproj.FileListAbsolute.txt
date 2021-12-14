@@ -13,3 +13,19 @@ C:\Users\Johnathan\source\repos\Visual Bubble Sort (KMS)\Visual Bubble Sort (KMS
 C:\Users\Johnathan\source\repos\Visual Bubble Sort (KMS)\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).csproj.CoreCompileInputs.cache
 C:\Users\Johnathan\source\repos\Visual Bubble Sort (KMS)\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).exe
 C:\Users\Johnathan\source\repos\Visual Bubble Sort (KMS)\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).pdb
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\bin\Debug\Visual Bubble Sort (KMS).exe.config
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\bin\Debug\Visual Bubble Sort (KMS).exe
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\bin\Debug\Visual Bubble Sort (KMS).pdb
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).csproj.AssemblyReference.cache
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).csproj.SuggestedBindingRedirects.cache
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\MainWindow.g.cs
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\App.g.cs
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS)_MarkupCompile.cache
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS)_MarkupCompile.lref
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\MainWindow.baml
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).g.resources
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual_Bubble_Sort__KMS_.Properties.Resources.resources
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).csproj.GenerateResource.cache
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).csproj.CoreCompileInputs.cache
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).exe
+C:\Users\johna\Source\Repos\Visual-Bubble-Sort-1.0\Visual Bubble Sort (KMS)\obj\Debug\Visual Bubble Sort (KMS).pdb
